@@ -2,10 +2,10 @@
   <img src="banner.png" alt="Banner para o título profissional" />
 </p>
 
-<h1 align="center">Olá! Eu sou Marcos Mourão (mouraoinfo) 👋</h1>
+<h1 align="center">Olá! Eu sou Marcos Mourão (devmourao) 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedor Web Full Stack<br>
+  💻 Desenvolvedor Web <br>
   🌱 Focado em sistemas web e jogos interativos<br>
   🚀 Transição de carreira com projetos práticos e aprendizado constante</p>
 
@@ -67,7 +67,7 @@ Estou documentando minha transição de carreira e projetos nas redes sociais e 
 ### 📫 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mouraoinfo" target="_blank">
+  <a href="https://www.linkedin.com/in/devmourao" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dev@mourao.info">
