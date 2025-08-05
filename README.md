@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner para o título profissional" />
+ 
 </p>
 
 <h1 align="center">Olá! Eu sou Marcos Mourão (devmourao) 👋</h1>
